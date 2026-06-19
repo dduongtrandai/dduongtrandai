@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Dai Duong Tran
 
-**Senior C++ Engineer | Linux, Embedded Systems & Computer Vision**
+**C++ Engineer | Linux, Embedded Systems & Computer Vision**
 
 Building high-performance software with modern C++, Linux and embedded technologies.
 

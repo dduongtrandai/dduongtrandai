@@ -6,7 +6,7 @@ Building high-performance software with modern C++, Linux and embedded technolog
 
 ### Interests
 
-* C++20 / C++23
+* C++
 * Linux System Programming
 * Embedded Systems
 * Computer Vision
@@ -21,5 +21,4 @@ Building high-performance software with modern C++, Linux and embedded technolog
 * Modern C++ development
 
 📍 Vietnam
-🔗 https://dduongtrandai.github.io
 💼 LinkedIn: linkedin.com/in/dduongtrandai

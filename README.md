@@ -20,5 +20,4 @@ Building high-performance software with modern C++, Linux and embedded technolog
 * Computer Vision on edge devices
 * Modern C++ development
 
-📍 Vietnam
 💼 LinkedIn: linkedin.com/in/dduongtrandai
